@@ -85,6 +85,7 @@ class _HomePageState extends State<HomePage> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
+              Text(),
               Expanded(
                 child: Padding(
                   padding: const EdgeInsets.all(15.0),
